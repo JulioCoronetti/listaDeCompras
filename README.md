@@ -2,6 +2,10 @@
 
 Com base no projeto App CRUD Alunos, desenvolva individualmente um aplicativo de lista de compras, que terá como objetivo o cadastro de itens a serem comprados para quando o usuário for ao mercado e valor máximo a ser pago por cada item.
 
+## Credenciais
+<strong>Usuario:</strong> admin <br>
+<strong>Senha:</strong> admin
+
 ### O aplicativo deverá ter:
 - Uma logo personalizada na tela inicial com o nome do app;
 - Tela de login como nome do aluno desenvolvedor;
